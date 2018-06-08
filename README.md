@@ -17,3 +17,5 @@ This API-server was set up for education purposes and should not be anyways used
 This was set up in pieces in different virtual environments and might not respond well.
 
 
+# IMPORTANT
+Please note however that, the two1 library is no longer in use
