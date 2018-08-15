@@ -8,7 +8,7 @@ This API-server was set up for education purposes and should not be anyways used
 
 
 #USAGE
-1. Sign up for an UBER api [pip install uber_rides]
+1.Install UBER api library [pip install uber_rides]
 2. Set up and start server[bit-uber-server.py]
 3. Set up and start a client to purchase the service[bit-uber-client.py]
 
